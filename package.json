@@ -1,0 +1,22 @@
+{
+  "name": "vue-wx-auth",
+  "version": "1.0.0",
+  "description": "vue微信公众号授权插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangxin305/vue-wx-auth.git"
+  },
+  "keywords": [
+    "vue-wx-auth",
+    "vue公众号",
+    "vue微信登陆"
+  ],
+  "author": "alvin",
+  "dependencies": {
+
+  }
+}
